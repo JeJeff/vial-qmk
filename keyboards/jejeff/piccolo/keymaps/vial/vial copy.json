@@ -1,0 +1,38 @@
+{
+    "name": "Piccolo",
+    "vendorId": "OxFEED",
+    "productId": "0x5042",
+    "lighting": "none",
+    "matrix": {
+        "rows": 2,
+        "cols": 3
+    },
+    "layouts": {
+        "labels":[
+            "Key 5 is encoder"
+        ],
+        "keymap":[
+            [
+              "0,0",
+              "0,1",
+              "0,2",
+              "1,0",
+              "1,1\n\n\n0,0"
+            ],
+            [
+              {
+                "y": 0.25,
+                "x": 4
+              },
+              "1,1\n\n\n0,1\n\n\n\n\n\ne"
+            ],
+            [
+              {
+                "x": 4,
+                "h": 0.5
+              },
+              "1,1\n\n\n0,1"
+            ]
+          ]
+    }
+}
