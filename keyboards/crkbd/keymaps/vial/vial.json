@@ -3,6 +3,23 @@
   "vendorId": "0x4653",
   "productId": "0x0001",
   "lighting": "vialrgb",
+  "customKeycodes": [
+    {
+        "name": "Lower",
+        "title": "Lower layer (adjust with raise)",
+        "shortName": "LOWER"
+    },
+    {
+        "name": "Raise",
+        "title": "Raise layer (adjust with lower)",
+        "shortName": "RAISE"
+    },
+    {
+        "name": "Adjust",
+        "title": "Adjust layer",
+        "shortName": "ADJUST"
+    }
+  ],
   "matrix": { "rows": 8, "cols": 6 },
   "layouts": {
       "keymap": [
